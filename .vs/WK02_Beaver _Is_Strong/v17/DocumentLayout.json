@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|c:\\users\\jungle\\wk02_beaver _is_strong\\assets\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\shop_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\shop_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\solid_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\solid_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\character_breath\\character_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character_breath\\character_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\manager\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\enemy_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\enemy_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\card_effect\\crad_hover_effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card_effect\\crad_hover_effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\manager\\btn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\btn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\card_effect\\card_selecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card_effect\\card_selecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\manager\\sound_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\sound_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\manager\\card_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\card_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\text_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\manager\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\shop_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\shop_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\gold_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\gold_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\strong_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\strong_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\rabbit_btn\\rabbit_is_not_sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\rabbit_btn\\rabbit_is_not_sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\turn_off_btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\turn_off_btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\player_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\player_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\shop_str.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\shop_str.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\hp_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\hp_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\str_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\str_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\manager\\effect_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\effect_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\calling\\shop_solid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calling\\shop_solid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\scripts\\wobble_effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wobble_effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\assets\\material\\pencil_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1932D392-2D44-AFE0-EEA7-EB584DE83486}|Assembly-CSharp.csproj|solutionrelative:assets\\material\\pencil_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Analytics.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Analytics.cs",
+              "RelativeDocumentMoniker": "Assets\\Analytics.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Analytics.cs",
+              "RelativeToolTip": "Assets\\Analytics.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:24:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SOLID_UI.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\SOLID_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\SOLID_UI.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\SOLID_UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\SOLID_UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:09:24.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_Screen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Shop_Screen.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_Screen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Shop_Screen.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:36:00.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Strong_Text.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Strong_Text.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Strong_Text.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Strong_Text.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Strong_Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:42:58.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Text_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Text_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text_Manager.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Text_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text_Manager.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAKgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:01:18.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shop_HP.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_HP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Shop_HP.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_HP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Shop_HP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:17:50.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Shop_STR.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_STR.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Shop_STR.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_STR.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Shop_STR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:17:48.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HP_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\HP_Screen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\HP_Screen.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\HP_Screen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\HP_Screen.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:06:33.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "STR_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\STR_Screen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\STR_Screen.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\STR_Screen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\STR_Screen.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:00:23.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character_Animation.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Character_Breath\\Character_Animation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character_Breath\\Character_Animation.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Character_Breath\\Character_Animation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character_Breath\\Character_Animation.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:31:16.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Shop_Solid.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_Solid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Shop_Solid.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Shop_Solid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Shop_Solid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:31:09.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rabbit_Is_Not_Sell.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Rabbit_Btn\\Rabbit_Is_Not_Sell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Rabbit_Btn\\Rabbit_Is_Not_Sell.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Rabbit_Btn\\Rabbit_Is_Not_Sell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Rabbit_Btn\\Rabbit_Is_Not_Sell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:07:19.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Player_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Player_Controller.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Player_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Player_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:40:49.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Game_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Game_Manager.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Game_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Game_Manager.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:23:55.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sound_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Sound_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Sound_Manager.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Sound_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Sound_Manager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:19:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gold_Message.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Gold_Message.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Gold_Message.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Gold_Message.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Gold_Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:59:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Card_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Card_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Card_Manager.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Card_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Card_Manager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:32:06.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Enemy.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Enemy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:44:06.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Effect_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Effect_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Effect_Manager.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Effect_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Effect_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:44:25.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy_HP.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Enemy_HP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Enemy_HP.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Enemy_HP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Enemy_HP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:55:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Player_HP.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Player_HP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Player_HP.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Player_HP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Player_HP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:53:33.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Turn_Off_Btn.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Turn_Off_Btn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Calling\\Turn_Off_Btn.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Calling\\Turn_Off_Btn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Calling\\Turn_Off_Btn.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:53:29.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card_Selecter.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Card_Effect\\Card_Selecter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card_Effect\\Card_Selecter.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Card_Effect\\Card_Selecter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card_Effect\\Card_Selecter.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAxwFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:26:40.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Btn_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Btn_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Btn_Manager.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Manager\\Btn_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Btn_Manager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:12:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crad_Hover_Effect.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Card_Effect\\Crad_Hover_Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card_Effect\\Crad_Hover_Effect.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Card_Effect\\Crad_Hover_Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card_Effect\\Crad_Hover_Effect.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA9wBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:46:20.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pencil_Shader.shader",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Material\\Pencil_Shader.shader",
+              "RelativeDocumentMoniker": "Assets\\Material\\Pencil_Shader.shader",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Material\\Pencil_Shader.shader",
+              "RelativeToolTip": "Assets\\Material\\Pencil_Shader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-03-13T05:57:21.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Wobble_Effect.cs",
+              "DocumentMoniker": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Wobble_Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Wobble_Effect.cs",
+              "ToolTip": "C:\\Users\\jungle\\WK02_Beaver _Is_Strong\\Assets\\Scripts\\Wobble_Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Wobble_Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:05:50.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

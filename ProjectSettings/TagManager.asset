@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Game_Area
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGound_-5
+  - 
+  - 
+  - UI_S
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character_Layer
+    uniqueID: 3565465
+    locked: 0
+  - name: Button_Layer
+    uniqueID: 2701639951
+    locked: 0
+  - name: Card_Layer
+    uniqueID: 4229823169
+    locked: 0
+  - name: Back_Ground_Layer
+    uniqueID: 3172121447
+    locked: 0
+  m_RenderingLayers:
+  - Default
